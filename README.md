@@ -26,6 +26,3 @@ The goal of this project is not just prediction accuracy, but to demonstrate **h
 - **Why Pipeline?**  
   Ensures the same transformations are applied during training and prediction, avoiding data leakage and deployment issues.
 
----
-
-## 🖥️ Application Structure
